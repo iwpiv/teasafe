@@ -1,0 +1,2 @@
+SUBDIRS = core fuse cipher
+
